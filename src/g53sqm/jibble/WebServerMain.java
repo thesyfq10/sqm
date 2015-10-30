@@ -32,7 +32,7 @@ public class WebServerMain {
     	 try
          {
              
-             File myFile = new File("C:/Users/./../sem 1/software quality management/jibble/webfiles");
+             File myFile = new File("C:/./../workspace/sqmm/webfiles");
              String path = myFile.getCanonicalPath();
 
              // If the file exists, display it's full path.
